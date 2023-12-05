@@ -38,3 +38,4 @@ clean:
 	rm -f results/figure/last.png
 	rm -f results/figure/sierra.png
 	rm -rf report/_build
+
